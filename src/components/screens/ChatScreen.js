@@ -2,7 +2,6 @@ import { ImageBackground, StyleSheet, FlatList, KeyboardAvoidingView } from 'rea
 import { useRoute, useNavigation } from '@react-navigation/native';
 import Message from '../chat/Message';
 import bg from '../../images/BG.png';
-import messages from '../../assets/messages.json';
 import InputBox from '../chat/InputBox';
 import { useEffect } from 'react';
 

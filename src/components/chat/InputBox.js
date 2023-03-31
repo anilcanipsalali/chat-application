@@ -110,7 +110,6 @@ const styles = StyleSheet.create({
     borderRadius: 15,
     overflow: "hidden",
   },
-
   attachmentsContainer: {
     alignItems: "flex-end",
   },

@@ -1,7 +1,6 @@
 import { FlatList } from 'react-native';
 import ChatListItem from '../chat/ChatListItem';
 import NotFound from './NotFound.js'
-import chats from '../../assets/chats.json';
 import { useState } from 'react';
 
 const ChatsScreen = () => {
